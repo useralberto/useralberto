@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=useralberto&label=Profile%20views&color=0e75b6&style=flat" alt="useralberto" /> </p>
 
-- 🔭 I’m currently working on [Biznet Hub](https://github.com/useralberto/BizNet-Hub)
+- 🔭 I’m currently working on [BizNet Hub](https://github.com/useralberto/BizNet-Hub)
 
 - 🌱 I’m currently learning **React Native, Creating plugin and modules in craft cms**
 
-- 🔭 I’m currently working on [Biznet Connect](https://github.com/useralberto/BizNet-Connect)
+- 🔭 I’m currently working on [BizNet Connect](https://github.com/useralberto/BizNet-Connect)
 
-- 💬 Ask me about **Craft CMS, Vue, React js, And Django Framework**
+- 💬 Ask me about **Craft CMS, Vue, React js, and Django Framework**
 
 - 📫 How to reach me **lalonso.dev@gmail.com**
 
